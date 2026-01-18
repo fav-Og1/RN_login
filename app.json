@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme":"RN_login",
     "name": "RN_login",
     "slug": "RN_login",
     "version": "1.0.0",
